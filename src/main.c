@@ -63,7 +63,7 @@ extern CRYS_RND_WorkBuff_t*  rndWorkBuff_ptr;
 
 
 
- int ecc_DH_tests(void)
+ int ecc_DH_tests(void);
 {
 	uint32_t                        ret = 0;
 	int                             test_index;

@@ -476,5 +476,3 @@ exit_1:
 
 	return ret;
 }
-
-
